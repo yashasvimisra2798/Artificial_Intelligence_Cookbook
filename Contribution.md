@@ -4,3 +4,5 @@
   Add a link to the readme for your resources.
 
 * Add the projects in the relevant folders and add a link for the same in the readme.
+
+* The projects should have well documented code and along with it write a short article explaing the purpose of your project.
